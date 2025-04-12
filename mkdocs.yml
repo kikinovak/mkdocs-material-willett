@@ -7,6 +7,8 @@ theme:
   font:
     text: Merriweather Sans
     code: Red Hat Mono
+  icon:
+    logo: fontawesome/solid/w
   palette:
     # Dark Mode
     - scheme: slate
